@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1425842610 source:/home/nikolay/Desktop/Vector/vector.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1425842869 source:/home/nikolay/Documents/Github/C/Vector/vector.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
